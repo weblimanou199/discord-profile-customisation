@@ -1,4 +1,25 @@
-# Discord About Me Customisation
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?color=blue&style=flat-square">
+  </img>
+</a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/languages/code-size/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/stars/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/forks/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/commit-activity/m/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
+
+# Discord Profile Customisation
 
 Discord About Me Customisation
 
